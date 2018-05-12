@@ -1,0 +1,31 @@
+_repo: Vae-victis-_38259
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38259-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vivanti, Annie
+    aliases:
+    - Vivanti, Anna
+    - Chartres, Annie Vivanti
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '37364'
+    url: http://www.gutenberg.org/2009/agents/37364
+    wikipedia: http://it.wikipedia.org/wiki/Annie_Vivanti
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2011-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38259'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Vae victis! Romanzo
+url: http://www.gutenberg.org/ebooks/38259
